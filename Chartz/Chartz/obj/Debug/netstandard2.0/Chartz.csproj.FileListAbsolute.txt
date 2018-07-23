@@ -1,0 +1,12 @@
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\bin\Debug\netstandard2.0\Chartz.deps.json
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\bin\Debug\netstandard2.0\Chartz.dll
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\bin\Debug\netstandard2.0\Chartz.pdb
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\Chartz.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\Chartz.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\Chartz.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\Chartz.AssemblyInfo.cs
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\Chartz.dll
+C:\Users\erpre\source\repos\Chartz\Chartz\Chartz\obj\Debug\netstandard2.0\Chartz.pdb
